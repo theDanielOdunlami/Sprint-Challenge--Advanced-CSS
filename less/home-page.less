@@ -1,8 +1,12 @@
 // Home Content
 
 .home {
+  .header-img{
+    padding-top: 0%;
+  }
 
   .intro {
+    // margin-top: 0%;
 
     h2 {
       padding: 15px;
@@ -18,6 +22,11 @@
     display: flex;
     flex-wrap: wrap;
     width: 100%;
+    @media @phone{
+      .sky{
+        display: none;
+      }
+    }
 
     img {
       width: 28%;

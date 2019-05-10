@@ -38,11 +38,11 @@ Edit this document to include your answers after each question. Make sure to lea
 
 2. Describe what it means to be mobile first vs desktop first.
 
-#mobile first means to set up the responsiveness of a website starting from the smallest display width while desktop first works the other way round from the desktop i.e the largest display.
+# mobile first means to set up the responsiveness of a website starting from the smallest display width while desktop first works the other way round from the desktop i.e the largest display.
 
 3. What does `font-size: 62.5%` in the `html` tag do for us when using `rem` units?
 
-It helps us regulate the size point of fonts to have a standard and uniform size across the website and media.
+# It helps us regulate the size point of fonts to have a standard and uniform size across the website and media.
 
 4. How would you describe preprocessing to someone new to CSS?
 
