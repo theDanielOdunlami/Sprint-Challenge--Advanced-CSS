@@ -1,1 +1,17 @@
 // Mixins Here
+// MIXINS
+.flexbox(@flex-dir: row, @just-cont: flex-start, @align-items: stretch) {
+    display: flex;
+    flex-direction: @flex-dir;
+    justify-content: @just-cont;
+    align-items: @align-items;
+  }
+.button() {
+    background-color: @button-bg;
+    border-radius: 15px;
+    font-size: 1.5rem;
+    width: 70%;
+    text-align: center;
+    height: 40px;
+    color: white;
+  }
